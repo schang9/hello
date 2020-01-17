@@ -1,5 +1,5 @@
 /* "Hello World", My first program
-Name: Shen Chang
+Name: Shen Chang, Kyle Aranda
 Date: 2020/01/16
 */
 #include <stdio.h>
@@ -7,5 +7,6 @@ Date: 2020/01/16
 int main(void) {
 	printf("Hello World!\n");
 	printf("my major is Mathematics")
+	printf("Kyle's major is electrical engineering")
 	return 0;
 }
