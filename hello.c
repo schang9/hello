@@ -9,5 +9,9 @@ int main(void) {
 	printf("my major is Mathematics")	
 	printf("Kyle Aranda");
 	printf("Electrical Engineering");	
-	return 0;
+      printf("Jiahua Jia\n");
+      printf("Math\n");	
+
+
+return 0;
 }
