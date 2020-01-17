@@ -1,12 +1,13 @@
 /* "Hello World", My first program
-Name: Shen Chang, Kyle Aranda
+Name: Shen Chang
 Date: 2020/01/16
 */
 #include <stdio.h>
 
 int main(void) {
-	printf("Shen Chang");
-	printf("my major is Mathematics")
-	printf("Kyle's major is electrical engineering")
+	printf("Hello World!\n");
+	printf("my major is Mathematics")	
+	printf("Kyle Aranda");
+	printf("Electrical Engineering");	
 	return 0;
 }
