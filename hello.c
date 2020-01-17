@@ -5,7 +5,7 @@ Date: 2020/01/16
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Shen Chang");
 	printf("my major is Mathematics")
 	printf("Kyle's major is electrical engineering")
 	return 0;
